@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(rvest)
+import(jsonlite)
+import(curl)
+import(xml2)
